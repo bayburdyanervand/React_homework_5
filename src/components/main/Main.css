@@ -1,0 +1,23 @@
+.banner {
+    width: 100%;
+    background: #f6f6f6;
+    padding: 100px 0;
+    text-align: center;
+}
+.banner__title{
+    font-size: 38px;
+    line-height: 84px;
+    color: #171717;
+    font-weight: 500;
+    font-family: "Montserrat";
+}
+.banner__desc{
+    font-size: 18px;
+    line-height: 28px;
+    color: #787878;
+    font-weight: 400;
+    font-family: "Nunito Sans";
+    max-width: 515px;
+    width: 100%;
+    margin: 0 auto;
+}

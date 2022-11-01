@@ -1,0 +1,47 @@
+.footer{
+    width: 100%;
+    background: #141414;
+    padding: 100px 0;
+}
+.col{
+    display: inline-block;
+    overflow: hidden;
+}
+.footer__info__title{
+    font-size: 18px;
+    line-height: 72px;
+    color: #ffffff;
+    font-weight: 500;
+    font-family: "Montserrat";
+}
+.footer__link,
+.footer__contact__link,
+.footer__info__copy{
+    font-size: 15px;
+    line-height: 24px;
+    color: #bcbcbc;
+    font-weight: 400;
+    font-family: "Nunito Sans";
+    text-decoration: none;
+}
+.footer__contact__link{
+    display: block;
+}
+.footer__block{
+    list-style-type: none;
+}
+.footer__info{
+    width: calc(470 / 1170 * 100%);
+}
+
+.footer__contact {
+    width: calc(295 / 1170 * 100%);
+}
+
+.footer__nav1 {
+    width: calc(110 / 1170 * 100%);
+}
+
+.footer__nav2 {
+    width: calc(185 / 1170 * 100%);
+}
